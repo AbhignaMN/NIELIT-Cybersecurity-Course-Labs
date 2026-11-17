@@ -1,6 +1,6 @@
-# Nmap and Reconnaissance Lab
+﻿# Nmap and Reconnaissance Lab
 
-Hands-on network scanning and reconnaissance tasks completed during my cybersecurity internship at NIELIT Calicut.
+Hands-on network scanning and reconnaissance tasks completed during my Certificate Course on Cyber Security at NIELIT Calicut (19 Mar to 1 May 2025, 120 hours, online).
 
 **Tools:** Nmap, Dmitry, Netcat, nslookup, whois, ping (Kali Linux, TryHackMe lab network)
 
@@ -83,3 +83,4 @@ Nmap -sn 10.10.176.0./24
 <img src="./media/image11.jpeg" style="width:6in;height:3.01042in" />  
   
 <img src="./media/image12.jpeg" style="width:6.01156in;height:3.98819in" />
+

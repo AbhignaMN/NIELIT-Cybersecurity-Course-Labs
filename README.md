@@ -1,6 +1,6 @@
-# NIELIT Calicut Cybersecurity Internship - Labs
+﻿# NIELIT Calicut Cyber Security Course - Labs
 
-Lab work from my Cyber Security internship at NIELIT Calicut (remote). Each folder has a README with the task log and screenshots.
+Lab work from my Certificate Course on Cyber Security at NIELIT Calicut (19 Mar to 1 May 2025, 120 hours, online). Each folder has a README with the task log and screenshots.
 
 | Lab | What it shows | Tools |
 |---|---|---|
@@ -17,3 +17,4 @@ Lab work from my Cyber Security internship at NIELIT Calicut (remote). Each fold
 Abhigna M N - [LinkedIn](https://linkedin.com/in/abhigna-m-n-0a8752295)
 
 All scans and tests were run in lab environments I was authorised to use.
+

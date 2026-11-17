@@ -1,4 +1,4 @@
-# AI-Enhanced Password Cracking (design)
+﻿# AI-Enhanced Password Cracking (design)
 
 > **Status: design document.** Add the code and a results section here once the implementation is in this repo.
 
@@ -61,3 +61,4 @@ This project builds upon the concept of dictionary + brute force password cracki
 🔹 Use reinforcement learning to improve guessing order.
 
 🔹 Expand dictionary with data leaks (for research purposes).
+

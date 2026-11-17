@@ -1,4 +1,4 @@
-# Linux Command-Line Basics Lab
+﻿# Linux Command-Line Basics Lab
 
 Introductory Linux exercises completed during my NIELIT Calicut cybersecurity internship.
 
@@ -91,3 +91,4 @@ the answer is in the above picture.
 17. Merge the contents of file1.txt, file2.txt, file3.txt to file4.txt ?
 
 18. <img src="./media/image6.png" style="width:4.52083in;height:5.44792in" alt="Screenshot 2025-04-15 155404" />
+

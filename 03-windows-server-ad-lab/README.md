@@ -1,4 +1,4 @@
-# Windows Server and Active Directory Lab
+﻿# Windows Server and Active Directory Lab
 
 A small Windows domain environment built in VirtualBox during my NIELIT Calicut cybersecurity internship.
 
@@ -79,3 +79,4 @@ MyDomain.local
 **Conclusion**
 
 All components were successfully configured and tested.
+
